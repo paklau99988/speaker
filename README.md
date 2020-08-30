@@ -25,3 +25,6 @@ https://github.com/manojpamk/pytorch_xvectors
 https://arxiv.org/pdf/2002.06220.pdf
 https://github.com/HuangZiliAndy/RPNSD
 
+
+## Speaker Diarization using GRU
+https://github.com/WiraDKP/pytorch_gru_speaker_diarization
